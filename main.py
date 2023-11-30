@@ -1,2 +1,2 @@
-import time
-import tkinter 
+import time 
+import random
