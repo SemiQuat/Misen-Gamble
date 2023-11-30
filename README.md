@@ -1,2 +1,2 @@
-# Misen-Track
-Useless Software that can help keep track of upcoming work and activities 
+# Misen-Gamble
+A nice game to get that extra ounce of dopamine. But at what cost?
